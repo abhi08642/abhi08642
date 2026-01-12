@@ -1,3 +1,13 @@
+# 💫 Hi 👋, I'm Abhinav
+**A Stucked Engineer**
+
+Email Me 👉 ✉️ **rorusuroisu1@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** my coding and extracurricular skills
+- 🌱 **I’m currently learning:** music production , 3D creation
+- 📫 **How to reach me:** rorusuroisu1@gmail.com
+- 😄 **Pronouns:** he/him
+- ⚡ **Fun fact:** I Love to time waste in random creativeness
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhinav-shukla-2a901038a) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Fantastic_Blood_3045) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rorusuroisu1@gmail.com) 
@@ -8,6 +18,12 @@
 ![](https://github-readme-stats.vercel.app/api?username=abhi08642&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=abhi08642&theme=ambient_gradient&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhi08642&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=abhi08642&theme=ambient_gradient&no-frame=false&no-bg=true&margin-w=4)
